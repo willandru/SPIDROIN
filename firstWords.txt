@@ -1,0 +1,22 @@
+
+9-sep-2022
+21:04
+@willandru
+
+RECOMBINANT SPIDROIN
+
+Its been a while since I fisrt had the idea of creating something that could go from an idea to a real life good, so the biocompatibility, sthrengthness, elasticity, thoghness, lightweightness, and the 'spider-man' movie itself with my interes for biology, medicine, genetics, ilness, and poor quality life consitions in gneeral had developed an interest on my for trying to reach an understanding of the GENETIC EDITION, RECOMBINANT PROTEINS PRODUCTION, BIOMATETRIRAL AND DRUG DELIVERI, GENETIC THERAPY, based on not just years of understanding basic cell biology and some others having some hands on molecular biology is guiding me to getting very xcited with rhese topics that I just decided Spidroin based materials of any shape and flavor should be developed.
+
+I have the luck to count with amazing teachers inmy university that are very emotionated on working on these areas and have spent tha last decades of their lives working on these things, producing recombinant proteins and doing genetic therapy for metabolic inmunno deaseases releated, so I had the lusck to met them personally and participate on several activities carriesd out in EMB students group where we have created a scietific community at the university,
+
+THE SPIDROIN SYSTEM I WANT TO MDOEL
+
+In nature the spider produces the protein and it is 
+
+AIM: Understand the path from end-to-end of all molecules, proteins, postransductional modifications, buffer conditions,and involved GENES that are taking action during the spidroin production and also during proteins storing and spunining
+
+Among the things I have to do to achive the fisrt stage, I could do:
+
+- Search the literature and document everthing somewhere.
+
+- Bioinformatics: Search the genomes of all available spiders in the literature, Search the individual genes and proteinas and do bionfomatic analysis on those seuqences/proteins, to identify hidden patterns to helpme reconstruct the spidroin system that takes place in the spider.
